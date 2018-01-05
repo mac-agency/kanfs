@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="ja"><!-- InstanceBegin template="/Templates/base1.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="ja">
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>住宅型老人ホームとデイサービスで地域に貢献する関東福祉サービス株式会社</title>
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
 <!--meta-->
-<!-- InstanceBeginEditable name="meta" -->
+<!-- TemplateBeginEditable name="meta" -->
 <meta name="description" content="関東福祉サービスは住宅型老人ホームとデイサービスで関東一円の地域の福祉に貢献しています。">
 <meta name="keywords" content="住宅型老人ホーム,デイサービス,福祉,介護">
 <!--meta-->
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
 <!-- Bootstrap -->
-<link rel="stylesheet" href="css/bootstrap.css">
-<link href="css/index_customize.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link href="../css/index_customize.css" rel="stylesheet" type="text/css">
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -23,18 +23,19 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-<script type="text/javascript" src="jquery.mb.YTPlayer/jquery.mb.YTPlayer.js"></script>
-<link href="jquery.mb.YTPlayer/css/jquery.mb.YTPlayer.min.css" rel="stylesheet" type="text/css">
-<link href="css/reset.css" rel="stylesheet" type="text/css">
-<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="css/collapse.css" rel="stylesheet" type="text/css">
-<link href="css/parallax.css" rel="stylesheet" type="text/css">
-<link href="css/animate.css" rel="stylesheet" type="text/css">
-<link href="css/lightbox.css" rel="stylesheet" type="text/css">
-<script>
-    new WOW().init();
-</script>
-<!-- InstanceBeginEditable name="script" -->	
+<script type="text/javascript" src="../jquery.mb.YTPlayer/jquery.mb.YTPlayer.js"></script>
+<link href="../jquery.mb.YTPlayer/css/jquery.mb.YTPlayer.min.css" rel="stylesheet" type="text/css">
+<link href="../css/reset.css" rel="stylesheet" type="text/css">
+ <link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	
+<link href="../css/collapse.css" rel="stylesheet" type="text/css">
+<link href="../css/parallax.css" rel="stylesheet" type="text/css">
+<link href="../css/animate.css" rel="stylesheet" type="text/css">
+ <link href="../css/line-icons.min.css" rel="stylesheet" type="text/css">
+ <link href="../css/prettyPhoto.css" rel="stylesheet" type="text/css">
+ <link href="../css/responsive.css" rel="stylesheet" type="text/css">
+	
+<!-- TemplateBeginEditable name="script" -->	
 <script>
  
         jQuery(function () {
@@ -43,14 +44,14 @@
         });
  
     </script>
-	<!-- InstanceEndEditable -->
-<!-- InstanceParam name="home1" type="boolean" value="true" -->
-<!-- InstanceParam name="video1" type="boolean" value="false" -->
-<!-- InstanceParam name="nairan1" type="boolean" value="true" -->
-<!-- InstanceParam name="contact1" type="boolean" value="true" -->
-<!-- InstanceParam name="footer1" type="boolean" value="true" -->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+	<!-- TemplateEndEditable -->
+<!-- TemplateParam name="home1" type="boolean" value="false" -->
+<!-- TemplateParam name="video1" type="boolean" value="false" -->
+<!-- TemplateParam name="nairan1" type="boolean" value="true" -->
+<!-- TemplateParam name="contact1" type="boolean" value="true" -->
+<!-- TemplateParam name="footer1" type="boolean" value="true" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 	
 <body>
@@ -61,37 +62,37 @@
     <div class="navbar-header">
 			
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-			<div class="ico_tel md_non"><a href="tel:0000000000"><img src="images/ico_tel.png" class="img-responsive retina" alt="電話をかける"></a></div>
-      <a class="navbar-brand" href="index.html"><img src="images/logo.png" class="img-responsive retina header_loog" alt="関東福祉サービス株式会社"></a> </div>
+			<div class="ico_tel md_non"><a href="tel:0000000000"><img src="../images/ico_tel.png" class="img-responsive retina" alt="電話をかける"></a></div>
+      <a class="navbar-brand" href="#"><img src="../images/logo.png" class="img-responsive retina header_loog" alt="関東福祉サービス株式会社"></a> </div>
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="index.html">HOME <span class="sr-only">(current)</span></a> </li>
-        <li><a href="home/index.html">住宅型老人ホーム</a> </li>
-        <li><a href="day_service/index.html">デイサービス</a> </li>
+        <li><a href="../index.html">HOME <span class="sr-only">(current)</span></a> </li>
+        <li><a href="../home/index.html">住宅型老人ホーム</a> </li>
+        <li><a href="../day_service/index.html">デイサービス</a> </li>
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">施設一覧<span class="caret"></span></a>
 				<ul class="dropdown-menu">
-            <li><a href="branch/index.html">施設一覧ページ</a></li>
-            <li><a href="branch/ageo.html">ソーシャルライフ上尾</a></li>
+            <li><a href="../branch/index.html">施設一覧ページ</a></li>
+            <li><a href="../branch/ageo.html">ソーシャルライフ上尾</a></li>
 					</ul>
 				</li>
-        <li><a href="faq/index.html">よくある質問</a> </li>
+        <li><a href="../faq/index.html">よくある質問</a> </li>
       </ul>
       <ul class="navbar-nav navbar-right reset_cyousei sm_non">
-        <li><a href="tel:0000000000"><img src="images/bn_header_tel.png" class="heder_bn retina" alt="電話でのお問合せ"/></a> </li>
-        <li><a href="contact/index.html"><img src="images/bn_header_mail.png" class="heder_bn retina" alt="メールでのお問合せ"/></a> </li>
+        <li><a href="tel:0000000000"><img src="../images/bn_header_tel.png" class="heder_bn retina" alt="電話でのお問合せ"/></a> </li>
+        <li><a href="../contact/index.html"><img src="../images/bn_header_mail.png" class="heder_bn retina" alt="メールでのお問合せ"/></a> </li>
       </ul>
     </div>
     <!-- /.navbar-collapse --> 
   </div>
   <!-- /.container-fluid --> 
 </nav>
-<!-- InstanceBeginEditable name="main1" -->
+<!-- TemplateBeginEditable name="main1" -->
 <div id="video" class="player" data-property="{videoURL:'pmd2f9N5ODs', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, addRaster:true, quality:'default'}">My video</div>
 <div class="container top_margin50">
   <div class="row top_margin50">
-    <div class="col-sm-2 col-sm-offset-1 col-xs-6"><img src="images/ico_home.png" class="img-responsive retina" alt="住宅型老人ホーム"></div>
+    <div class="col-sm-2 col-sm-offset-1 col-xs-6 wow fadeInLeft" data-wow-delay=".5s"><img src="../images/ico_home.png" class="img-responsive retina" alt="住宅型老人ホーム"></div>
   </div>
   <div class="row top_margin20">
     <div class="col-sm-8 col-sm-offset-2">
@@ -128,7 +129,7 @@
     <div class="row row-20 bottom_margin20">
       <div class="col-sm-4 bottom_margin20">
         <h3 class="block_title1">住宅型老人ホーム</h3>
-        <img src="images/ph_home.jpg" class="img-responsive retina center-block" alt="住宅型老人ホーム">
+        <img src="../images/ph_home.jpg" class="img-responsive retina center-block" alt="住宅型老人ホーム">
         <p class="block_read1">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。とかくに人の世は住みにくい。
           どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。意地を通せば窮屈だ。山路を登りながら、こう考えた。智に働けば角が立つ。どこへ越しても住</p>
         <div class="row">
@@ -137,7 +138,7 @@
       </div>
       <div class="col-sm-4 bottom_margin20">
         <h3 class="block_title1">住宅型老人ホーム</h3>
-        <img src="images/ph_day_service.jpg" class="img-responsive retina center-block" alt="デイサービス">
+        <img src="../images/ph_day_service.jpg" class="img-responsive retina center-block" alt="デイサービス">
         <p class="block_read1">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。とかくに人の世は住みにくい。
           どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。意地を通せば窮屈だ。山路を登りながら、こう考えた。智に働けば角が立つ。どこへ越しても住</p>
         <div class="row">
@@ -146,7 +147,7 @@
       </div>
       <div class="col-sm-4 bottom_margin20">
         <h3 class="block_title1">住宅型老人ホーム</h3>
-        <img src="images/ph_second_life.jpg" class="img-responsive retina center-block" alt="セカンドライフ">
+        <img src="../images/ph_second_life.jpg" class="img-responsive retina center-block" alt="セカンドライフ">
         <p class="block_read1">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。とかくに人の世は住みにくい。
           どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。意地を通せば窮屈だ。山路を登りながら、こう考えた。智に働けば角が立つ。どこへ越しても住</p>
         <div class="row">
@@ -164,7 +165,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-4"><img src="images/ph_second_ouen.jpg" class="img-responsive retina" alt="Placeholder image"></div>
+      <div class="col-sm-4"><img src="../images/ph_second_ouen.jpg" class="img-responsive retina" alt="Placeholder image"></div>
       <div class="col-sm-8">
         <p class="block_read1">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。 
           とかくに人の世は住みにくい。
@@ -173,9 +174,9 @@
     </div>
   </div>
 </section>
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
 	
-
+<!-- TemplateBeginIf cond="home1" -->
 <section class="bg-white">
 	  <div class="container">
 	<div class="row">
@@ -184,10 +185,10 @@
 			
 
 <div class="row">
-	    <div class="col-sm-3">
+	    <div class="col-sm-3 wow fadeInLeft" data-wow-delay=".5s">
 				<h3 class="home_name">ソーシャルライフ川口</h3>
 				<div class="home_waku1">
-			<img src="images/home1.jpg" class="img-responsive retina" alt="ソーシャルライフ川口">
+			<img src="../images/home1.jpg" class="img-responsive retina" alt="ソーシャルライフ川口">
 				<p class="home_address">埼玉県川口市青木２丁目１番１号</p>
 				<div class="row row-10">
 					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
@@ -201,21 +202,21 @@
 	    <div class="col-sm-3">
 				<h3 class="home_name">ソーシャルライフ上尾</h3>
 				<div class="home_waku1">
-			<img src="images/home2.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾">
+			<img src="../images/home2.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾">
 				<p class="home_address">埼玉県上尾市２丁目１番１号</p>
 				<div class="row row-10">
 					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
 					<div class="col-xs-6"><p class="bn_day_service">デイサービス</p></div>
 					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て22室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐、駐車場5台分</p></div>
 					<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
-					<div class="col-xs-6 col-xs-offset-3 top_margin10"><a href="branch/ageo.html" class="bt_link center-block">詳しいご案内</a></div>
+					<div class="col-xs-6 col-xs-offset-3 top_margin10"><a href="../branch/ageo.html" class="bt_link center-block">詳しいご案内</a></div>
 					</div>
 			  </div>
       </div>
 	    <div class="col-sm-3">
 				<h3 class="home_name">ソーシャルライフ横浜</h3>
 				<div class="home_waku1">
-			<img src="images/home3.jpg" class="img-responsive retina" alt="ソーシャルライフ横浜">
+			<img src="../images/home3.jpg" class="img-responsive retina" alt="ソーシャルライフ横浜">
 				<p class="home_address">横浜市中区港町２丁目１番１号</p>
 				<div class="row row-10">
 					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
@@ -229,7 +230,7 @@
 	    <div class="col-sm-3">
 				<h3 class="home_name">ソーシャルライフ船橋</h3>
 				<div class="home_waku1">
-			<img src="images/home4.jpg" class="img-responsive retina" alt="ソーシャルライフ船橋">
+			<img src="../images/home4.jpg" class="img-responsive retina" alt="ソーシャルライフ船橋">
 				<p class="home_address">千葉県船橋市湊町２丁目１番１号</p>
 				<div class="row row-10">
 					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
@@ -243,45 +244,64 @@
 			</div>
     </div>
   </section>
+	<!-- TemplateEndIf -->
 	
+	<!-- TemplateBeginIf cond="video1" -->
+	<section class="bg-white">
+	  <div class="container">
+	    <div class="row">
+	      <div class="col-lg-12">
+	        <h2 class="section_title">映像でのご紹介</h2>
+	        </div>
+	      </div>
+	    </div>
+	  <div class="container">
+	    <div class="row">
+	      <div class="col-lg-12">
+	        <div class="embed-responsive embed-responsive-16by9">
+	          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lFqDM_YlXV8"></iframe>
+	          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+	<!-- TemplateEndIf -->
 	
-	
-	
-	
+	<!-- TemplateBeginIf cond="nairan1" -->
 	<section id="nairan" class="bg-white">
 <div class="container sm_non">
   <div class="row top_margin30 bottom_margin30">
-		<div class="col-sm-10 col-sm-offset-1"><h2><a href="viewing/index.html"><img src="images/bn_nairan.jpg" class="img-responsive retina" alt="内覧見学会"></a></h2></div>
+		<div class="col-sm-10 col-sm-offset-1"><h2><a href="../viewing/index.html"><img src="../images/bn_nairan.jpg" class="img-responsive retina" alt="内覧見学会"></a></h2></div>
   </div>
 </div>
 	<div class="container pc_non">
   <div class="row top_margin30 bottom_margin30">
-		<div class="col-sm-10 col-sm-offset-1"><h2><a href="viewing/index.html"><img src="images/bn_nairan_sm.jpg" class="img-responsive retina center-block" alt="内覧見学会"></a></h2></div>
+		<div class="col-sm-10 col-sm-offset-1"><h2><a href="../viewing/index.html"><img src="../images/bn_nairan_sm.jpg" class="img-responsive retina center-block" alt="内覧見学会"></a></h2></div>
   </div>
 </div>		
 </section>
+	<!-- TemplateEndIf -->
 	
-	
-	
+	<!-- TemplateBeginIf cond="contact1" -->
 	<section id="contact" class="bg-white">
 	  <div class="container-fluid bottom_margin30">
 		  <div class="container">
 			  <div class="row">
-					<div class="col-sm-6 bottom_margin10"><h2><a href="tel:0000000000"><img src="images/bn_tel.png" class="img-responsive retina" alt="電話でのお問合せ"></a></h2></div>
-					<div class="col-sm-6 bottom_margin10"><h2><a href="contact/index.html"><img src="images/bn_mail.png" class="img-responsive" alt="メールでのお問合せ"></a></h2></div>
+					<div class="col-sm-6 bottom_margin10"><h2><a href="tel:0000000000"><img src="../images/bn_tel.png" class="img-responsive retina" alt="電話でのお問合せ"></a></h2></div>
+					<div class="col-sm-6 bottom_margin10"><h2><a href="../contact/index.html"><img src="../images/bn_mail.png" class="img-responsive" alt="メールでのお問合せ"></a></h2></div>
 		    </div>
       </div>
     </div>
   </section>
+	<!-- TemplateEndIf -->
 	
 	
-	
-		
+		<!-- TemplateBeginIf cond="footer1" -->
 	<section class="bg-blue">
 <div class="container">
   <div class="row">
 <div class="col-lg-4 col-md-6 col-sm-6 top_margin20 bottom_margin20">
-	<img src="images/logo_white.png" class="img-responsive retina" alt="関東福祉サービス株式会社">
+	<img src="../images/logo_white.png" class="img-responsive retina" alt="関東福祉サービス株式会社">
 	<p class="footer_read">ここに集まる人達で共に励まし合い心に張りを持たせ暮らしていける住環境は、老人福祉法に定められている基準を解決しつつ、現代に沿った「介護のために入居するお年寄りばかりでなく、通常の生活を営むためにホームに入居する方も多い」状況に着眼しこれから（セカンドライフ）を楽しく生きていくための施設の提供をしてまいります。</p>
     </div>
 		
@@ -291,31 +311,31 @@
 			<div class="row top_margin20">
 			<div class="col-sm-6">
 			  <ul class="footer_list">
-			    <li><a href="index.html">HOME</a></li>
-					<li><a href="home/index.html">住宅型老人ホーム</a></li>
-					<li><a href="day_service/index.html">デイサービス</a></li>
-					<li><a href="second_life/index.html">セカンドライフ</a></li>
-					<li><a href="branch/index.html">施設のご案内</a></li>
+			    <li><a href="../index.html">HOME</a></li>
+					<li><a href="../home/index.html">住宅型老人ホーム</a></li>
+					<li><a href="../day_service/index.html">デイサービス</a></li>
+					<li><a href="../second_life/index.html">セカンドライフ</a></li>
+					<li><a href="../branch/index.html">施設のご案内</a></li>
 			    </ul>
 			</div>
 			<div class="col-sm-6">
 			  <ul class="footer_list">
-					<li><a href="company/index.html">会社概要</a></li>
-					<li><a href="privacy_policy/index.html">プライバシーポリシー</a></li>
-					<li><a href="compliance/index.html">コンプライアンス</a></li>
-					<li><a href="faq/index.html">よくある質問</a></li>
-					<li><a href="contact/index.html">お問合せ</a></li>
+					<li><a href="../company/index.html">会社概要</a></li>
+					<li><a href="../privacy_policy/index.html">プライバシーポリシー</a></li>
+					<li><a href="../compliance/index.html">コンプライアンス</a></li>
+					<li><a href="../faq/index.html">よくある質問</a></li>
+					<li><a href="../contact/index.html">お問合せ</a></li>
 			    </ul>
 			</div>
 			</div>
     </div>
-    <div class="col-lg-4 col-sm-12 top_margin20 bottom_margin20"> <a href="branch/ageo.html"><img src="images/footer_ph.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾"></a>
-				<a href="viewing/index.html"><div class="footer_link">内覧会を開催しています</div></a>
+    <div class="col-lg-4 col-sm-12 top_margin20 bottom_margin20 wow fadeInLeft" data-wow-delay=".5s"> <a href="../branch/ageo.html"><img src="../images/footer_ph.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾"></a>
+				<a href="../viewing/index.html"><div class="footer_link">内覧会を開催しています</div></a>
     </div>
   </div>
 </div>
 	</section>
-	
+	<!-- TemplateEndIf -->
 	
 <footer class="text-center bg-white">
   <div class="container">
@@ -331,12 +351,26 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <!--<script src="js/jquery-1.11.3.min.js"></script>--> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/bootstrap.js"></script>
-<script type="text/javascript" src="js/backgrounds.js"></script>
-<script type="text/javascript" src="js/kinetics.js"></script>
-<script type="text/javascript" src="js/parallax.js"></script>
-<script type="text/javascript" src="js/side-nav.js"></script>
-	<script type="text/javascript" src="js/wow.min.js"></script>
-	<script type="text/javascript" src="js/lightbox.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+    <!-- PrettyPhoto -->
+    <script type="text/javascript" src="../js/jquery.prettyPhoto.js"></script>
+    <!-- Wow Animation -->
+    <script type="text/javascript" src="../js/wow.min.js"></script>
+    <!-- Eeasing -->
+    <script type="text/javascript" src="../js/jquery.easing.1.3.js"></script>
+    <!-- Isotope -->
+    <script type="text/javascript" src="../js/jquery.isotope.min.js"></script>
+    <!-- Sticky JS -->
+    <script type="text/javascript" src="../js/jquery.sticky.js"></script>
+    <!-- Counter -->
+    <script type="text/javascript" src="../js/jquery.counterup.min.js"></script>
+    <!-- Waypoints -->
+    <script type="text/javascript" src="../js/jquery.waypoints.min.js"></script>
+    <!-- Slideshow bg -->
+    <script src="../js/jquery.backstretch.min.js"></script>
+    <script type="text/javascript" src="../js/custom.js"></script>
+    <!-- Google Map API Key Source -->
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 </body>
-<!-- InstanceEnd --></html>
+</html>
