@@ -755,6 +755,12 @@ p {
   font-size: 16px;
 }
 
+.footer_link_title {
+  color: hsla(0,0%,100%,1.00);
+  border-bottom: 1px solid hsla(204,70%,80%,1.00);
+  padding-bottom: 5px;
+}
+
 @media (max-width:320px){
 
 .movie_title {
