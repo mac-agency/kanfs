@@ -5,32 +5,32 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>住宅型老人ホームとデイサービスで地域に貢献する関東福祉サービス株式会社</title>
+<title>住宅型有料老人ホームとデイサービスで地域に貢献する関東福祉サービス株式会社</title>
 <!-- TemplateEndEditable -->
 <!--meta-->
 <!-- TemplateBeginEditable name="meta" -->
-<meta name="description" content="関東福祉サービスは住宅型老人ホームとデイサービスで関東一円の地域の福祉に貢献しています。">
-<meta name="keywords" content="住宅型老人ホーム,デイサービス,福祉,介護">
+<meta name="description" content="関東福祉サービスは住宅型有料老人ホームとデイサービスで関東一円の地域の福祉に貢献しています。">
+<meta name="keywords" content="住宅型有料老人ホーム,デイサービス,福祉,介護">
 <!--meta-->
 <!-- TemplateEndEditable -->
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="../favicon.ico">
-  <link rel="icon" type="image/vnd.microsoft.icon" href="../favicon.ico">
-  <link rel="apple-touch-icon" sizes="57x57" href="../apple-touch-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="../apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="../apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="../apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="../apple-touch-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="../apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="../apple-touch-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="../apple-touch-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="../android-chrome-192x192.png">
-  <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48x48.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="../favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="../favicon-160x160.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="../favicon-196x196.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">	
+<link rel="icon" type="image/vnd.microsoft.icon" href="../favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="../apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="48x48" href="../favicon-48x48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../favicon-160x160.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../favicon-196x196.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
 <!-- Bootstrap -->
 <link rel="stylesheet" href="../css/bootstrap.css">
 <link href="../css/index_customize.css" rel="stylesheet" type="text/css">
@@ -41,9 +41,9 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-	<script src="../js/jquery.js"></script>
+<script src="../js/jquery.js"></script>
 <script src="../jquery.mb.YTPlayer/jquery.mb.YTPlayer.js"></script>
-	<!--<script type="text/javascript" src="../js/jquery-3.2.1.js"></script>-->
+<!--<script type="text/javascript" src="../js/jquery-3.2.1.js"></script>-->
 <link href="../jquery.mb.YTPlayer/css/jquery.mb.YTPlayer.min.css" rel="stylesheet" type="text/css">
 <link href="../css/reset.css" rel="stylesheet" type="text/css">
 <link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -54,7 +54,7 @@
 <script>
     new WOW().init();
 </script>
-<!-- TemplateBeginEditable name="script" -->	
+<!-- TemplateBeginEditable name="script" -->
 <script>
  
         jQuery(function () {
@@ -63,7 +63,7 @@
         });
  
     </script>
-	<!-- TemplateEndEditable -->
+<!-- TemplateEndEditable -->
 <!-- TemplateParam name="home1" type="boolean" value="false" -->
 <!-- TemplateParam name="video1" type="boolean" value="false" -->
 <!-- TemplateParam name="nairan1" type="boolean" value="true" -->
@@ -71,6 +71,7 @@
 <!-- TemplateParam name="footer1" type="boolean" value="true" -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<!-- TemplateParam name="contact2" type="boolean" value="false" -->
 </head>
 	
 <body>
@@ -81,25 +82,26 @@
     <div class="navbar-header">
 			
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-			<div class="ico_tel md_non"><a href="tel:0000000000"><img src="../images/ico_tel.png" class="img-responsive retina" alt="電話をかける"></a></div>
+			<div class="ico_tel md_non"><a href="tel:0480319528"><img src="../images/ico_tel.png" class="img-responsive retina" alt="電話をかける"></a></div>
       <a class="navbar-brand" href="../index.html"><img src="../images/logo.png" class="img-responsive retina header_loog" alt="関東福祉サービス株式会社"></a> </div>
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a href="../index.html">HOME <span class="sr-only">(current)</span></a> </li>
-        <li><a href="../home/index.html">住宅型老人ホーム</a> </li>
+        <li><a href="../home/index.html">住宅型有料老人ホーム</a> </li>
         <li><a href="../day_service/index.html">デイサービス</a> </li>
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">施設一覧<span class="caret"></span></a>
 				<ul class="dropdown-menu">
             <li><a href="../branch/index.html">施設一覧ページ</a></li>
-            <li><a href="../branch/ageo.html">ソーシャルライフ上尾</a></li>
+            <li><a href="../branch/syoubu.html">シルバーベターライフ菖蒲</a></li>
 					</ul>
 				</li>
         <li><a href="../faq/index.html">よくある質問</a> </li>
+				<li><a href="../recruit/index.html">採用情報</a> </li>
       </ul>
       <ul class="navbar-nav navbar-right reset_cyousei sm_non">
-        <li><a href="tel:0000000000"><img src="../images/bn_header_tel.png" class="heder_bn retina" alt="電話でのお問合せ"/></a> </li>
+        <li><a href="tel:0480319528"><img src="../images/bn_header_tel.png" class="heder_bn retina" alt="電話でのお問合せ"/></a> </li>
         <li><a href="../contact/index.html"><img src="../images/bn_header_mail.png" class="heder_bn retina" alt="メールでのお問合せ"/></a> </li>
       </ul>
     </div>
@@ -111,12 +113,12 @@
 <div id="video" class="player" data-property="{videoURL:'pmd2f9N5ODs', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, addRaster:true, quality:'default'}">My video</div>
 <div class="container top_margin50">
   <div class="row top_margin50">
-    <div class="col-sm-2 col-sm-offset-1 col-xs-6 animated fadeInLeft wow" data-wow-delay="0.5s"><img src="../images/ico_home.png" class="img-responsive retina" alt="住宅型老人ホーム"></div>
+    <div class="col-sm-2 col-sm-offset-1 col-xs-6 animated fadeInLeft wow" data-wow-delay="0.5s"><img src="../images/ico_home.png" class="img-responsive retina" alt="住宅型有料老人ホーム"></div>
   </div>
   <div class="row top_margin20">
     <div class="col-sm-8 col-sm-offset-2 animated fadeInLeft wow" data-wow-delay="0.5s">
       <h1 class="movie_title">一時金のない<br>
-        住宅型老人ホーム</h1>
+        住宅型有料老人ホーム</h1>
     </div>
   </div>
   <div class="top_margin50" style="height: 300px"></div>
@@ -142,13 +144,13 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2 class="section_title">暮らしやすさ、過ごしやすさの住宅型老人ホーム</h2>
+        <h2 class="section_title">暮らしやすさ、過ごしやすさの住宅型有料老人ホーム</h2>
       </div>
     </div>
     <div class="row row-20 bottom_margin20">
       <div class="col-sm-4 bottom_margin20">
-        <h3 class="block_title1">住宅型老人ホーム</h3>
-        <img src="../images/ph_home.jpg" class="img-responsive retina center-block" alt="住宅型老人ホーム">
+        <h3 class="block_title1">住宅型有料老人ホーム</h3>
+        <img src="../images/ph_home.jpg" class="img-responsive retina center-block" alt="住宅型有料老人ホーム">
         <p class="block_read1">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。とかくに人の世は住みにくい。
           どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。意地を通せば窮屈だ。山路を登りながら、こう考えた。智に働けば角が立つ。どこへ越しても住</p>
         <div class="row">
@@ -156,7 +158,7 @@
         </div>
       </div>
       <div class="col-sm-4 bottom_margin20">
-        <h3 class="block_title1">住宅型老人ホーム</h3>
+        <h3 class="block_title1">デイサービス</h3>
         <img src="../images/ph_day_service.jpg" class="img-responsive retina center-block" alt="デイサービス">
         <p class="block_read1">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。とかくに人の世は住みにくい。
           どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。意地を通せば窮屈だ。山路を登りながら、こう考えた。智に働けば角が立つ。どこへ越しても住</p>
@@ -165,7 +167,7 @@
         </div>
       </div>
       <div class="col-sm-4 bottom_margin20">
-        <h3 class="block_title1">住宅型老人ホーム</h3>
+        <h3 class="block_title1">セカンドライフ</h3>
         <img src="../images/ph_second_life.jpg" class="img-responsive retina center-block" alt="セカンドライフ">
         <p class="block_read1">情に棹させば流される。智に働けば角が立つ。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。とかくに人の世は住みにくい。意地を通せば窮屈だ。とかくに人の世は住みにくい。
           どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。意地を通せば窮屈だ。山路を登りながら、こう考えた。智に働けば角が立つ。どこへ越しても住</p>
@@ -199,18 +201,18 @@
 <section class="bg-white">
 	  <div class="container">
 	<div class="row">
-		<div class="col-lg-12"><h2 class="section_title">関東一円に広がる住宅型老人ホーム</h2></div>
+		<div class="col-lg-12"><h2 class="section_title">関東一円に広がる住宅型有料老人ホーム</h2></div>
 	  </div>
 			
 
 <div class="row">
 	    <div class="col-sm-3">
-				<h3 class="home_name">ソーシャルライフ川口</h3>
+				<h3 class="home_name">シルバーベターライフ川口</h3>
 				<div class="home_waku1">
 			<img src="../images/home1.jpg" class="img-responsive retina" alt="ソーシャルライフ川口">
 				<p class="home_address">埼玉県川口市青木２丁目１番１号</p>
 				<div class="row row-10">
-					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
+					<div class="col-xs-6"><p class="bn_home">住宅型有料老人ホーム</p></div>
 					<div class="col-xs-6"><p class="bn_day_service">デイサービス</p></div>
 					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て22室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐、駐車場5台分</p></div>
 					<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
@@ -219,26 +221,26 @@
 			  </div>
       </div>
 	    <div class="col-sm-3">
-				<h3 class="home_name">ソーシャルライフ上尾</h3>
+				<h3 class="home_name">シルバーベターライフ菖蒲</h3>
 				<div class="home_waku1">
-			<img src="../images/home2.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾">
-				<p class="home_address">埼玉県上尾市２丁目１番１号</p>
+			<img src="../images/home2.jpg" class="img-responsive retina" alt="シルバーベターライフ菖蒲">
+				<p class="home_address">埼玉県久喜市菖蒲町菖蒲112番地</p>
 				<div class="row row-10">
-					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
+					<div class="col-xs-6"><p class="bn_home">住宅型有料老人ホーム</p></div>
 					<div class="col-xs-6"><p class="bn_day_service">デイサービス</p></div>
 					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て22室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐、駐車場5台分</p></div>
 					<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
-					<div class="col-xs-6 col-xs-offset-3 top_margin10"><a href="../branch/ageo.html" class="bt_link center-block">詳しいご案内</a></div>
+					<div class="col-xs-6 col-xs-offset-3 top_margin10"><a href="../branch/syoubu.html" class="bt_link center-block">詳しいご案内</a></div>
 					</div>
 			  </div>
       </div>
 	    <div class="col-sm-3">
-				<h3 class="home_name">ソーシャルライフ横浜</h3>
+				<h3 class="home_name">シルバーベターライフ横浜</h3>
 				<div class="home_waku1">
 			<img src="../images/home3.jpg" class="img-responsive retina" alt="ソーシャルライフ横浜">
 				<p class="home_address">横浜市中区港町２丁目１番１号</p>
 				<div class="row row-10">
-					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
+					<div class="col-xs-6"><p class="bn_home">住宅型有料老人ホーム</p></div>
 					<div class="col-xs-6"><p class="bn_day_service">デイサービス</p></div>
 					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て22室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐、駐車場5台分</p></div>
 					<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
@@ -247,12 +249,12 @@
 			  </div>
       </div>
 	    <div class="col-sm-3">
-				<h3 class="home_name">ソーシャルライフ船橋</h3>
+				<h3 class="home_name">シルバーベターライフ船橋</h3>
 				<div class="home_waku1">
 			<img src="../images/home4.jpg" class="img-responsive retina" alt="ソーシャルライフ船橋">
 				<p class="home_address">千葉県船橋市湊町２丁目１番１号</p>
 				<div class="row row-10">
-					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
+					<div class="col-xs-6"><p class="bn_home">住宅型有料老人ホーム</p></div>
 					<div class="col-xs-6"><p class="bn_day_service">デイサービス</p></div>
 					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て22室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐、駐車場5台分</p></div>
 					<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
@@ -289,12 +291,12 @@
 	<!-- TemplateBeginIf cond="nairan1" -->
 	<section id="nairan" class="bg-white">
 <div class="container sm_non">
-  <div class="row top_margin30 bottom_margin30">
+  <div class="row top_margin20">
 		<div class="col-sm-10 col-sm-offset-1"><h2><a href="../viewing/index.html"><img src="../images/bn_nairan.jpg" class="img-responsive retina" alt="内覧見学会"></a></h2></div>
   </div>
 </div>
 	<div class="container pc_non">
-  <div class="row top_margin30 bottom_margin30">
+  <div class="row bn_wrap">
 		<div class="col-sm-10 col-sm-offset-1"><h2><a href="../viewing/index.html"><img src="../images/bn_nairan_sm.jpg" class="img-responsive retina center-block" alt="内覧見学会"></a></h2></div>
   </div>
 </div>		
@@ -303,16 +305,31 @@
 	
 	<!-- TemplateBeginIf cond="contact1" -->
 	<section id="contact" class="bg-white">
-	  <div class="container-fluid bottom_margin30">
+	  <div class="container-fluid">
 		  <div class="container">
 			  <div class="row">
-					<div class="col-sm-6 bottom_margin10"><h2><a href="tel:0000000000"><img src="../images/bn_tel.png" class="img-responsive retina" alt="電話でのお問合せ"></a></h2></div>
-					<div class="col-sm-6 bottom_margin10"><h2><a href="../contact/index.html"><img src="../images/bn_mail.png" class="img-responsive" alt="メールでのお問合せ"></a></h2></div>
+					<div class="col-sm-6 contact_wrap"><h2><a href="tel:0480319528"><img src="../images/bn_tel.png" class="img-responsive retina" alt="電話でのお問合せ"></a></h2></div>
+					<div class="col-sm-6 contact_wrap"><h2><a href="../contact/index.html"><img src="../images/bn_mail.png" class="img-responsive" alt="メールでのお問合せ"></a></h2></div>
 		    </div>
       </div>
     </div>
   </section>
 	<!-- TemplateEndIf -->
+	
+	<!-- TemplateBeginIf cond="contact2" -->
+		<section id="contact" class="bg-white">
+	  <div class="container-fluid">
+		  <div class="container">
+			  <div class="row">
+					<div class="col-sm-6 contact_wrap">
+					  <h2><a href="tel:0480449754"><img src="../viewing/images/bn_tel_syoubu.png" class="img-responsive retina" alt="電話でのお問合せ"></a></h2></div>
+					<div class="col-sm-6 contact_wrap"><h2><a href="../contact/index.html"><img src="../images/bn_mail.png" class="img-responsive" alt="メールでのお問合せ"></a></h2></div>
+		    </div>
+      </div>
+    </div>
+  </section>
+	<!-- TemplateEndIf -->
+	
 	
 	
 		<!-- TemplateBeginIf cond="footer1" -->
@@ -321,7 +338,7 @@
   <div class="row">
 <div class="col-lg-4 col-md-6 col-sm-6 top_margin20 bottom_margin20">
 	<img src="../images/logo_white.png" class="img-responsive retina" alt="関東福祉サービス株式会社">
-	<p class="footer_read">ここに集まる人達で共に励まし合い心に張りを持たせ暮らしていける住環境は、老人福祉法に定められている基準を解決しつつ、現代に沿った「介護のために入居するお年寄りばかりでなく、通常の生活を営むためにホームに入居する方も多い」状況に着眼しこれから（セカンドライフ）を楽しく生きていくための施設の提供をしてまいります。</p>
+	<p class="footer_read">ここに集まる人達で共に励まし合い心に張りを持たせ暮らしていける<br class="br-414">住環境は、老人福祉法に定められている基準を解決<br class="br-375">しつつ、現代に<br class="br-414">沿った「介護のために<br class="br-320">入居するお年寄りばかりでなく、通常の生活を<br class="br-414">営む<br class="br-320">ためにホームに入居する方も多い」状況に着眼し<br class="br-320">これから<br class="br-414">（セカンドライフ）を楽しく生きて<br class="br-375">いくための施設の提供をしてまいります。</p>
     </div>
 		
 		
@@ -331,10 +348,11 @@
 			<div class="col-sm-6">
 			  <ul class="footer_list">
 			    <li><a href="../index.html">HOME</a></li>
-					<li><a href="../home/index.html">住宅型老人ホーム</a></li>
+					<li><a href="../home/index.html">住宅型有料老人ホーム</a></li>
 					<li><a href="../day_service/index.html">デイサービス</a></li>
 					<li><a href="../second_life/index.html">セカンドライフ</a></li>
 					<li><a href="../branch/index.html">施設のご案内</a></li>
+					<li><a href="../branch/syoubu.html"><span class="footer_list2">シルバーベターライフ菖蒲</span></a></li>
 			    </ul>
 			</div>
 			<div class="col-sm-6">
@@ -343,12 +361,14 @@
 					<li><a href="../privacy_policy/index.html">プライバシーポリシー</a></li>
 					<li><a href="../compliance/index.html">コンプライアンス</a></li>
 					<li><a href="../faq/index.html">よくある質問</a></li>
+					<li><a href="../site_map/index.html">サイトマップ</a></li>
+					<li><a href="../recruit/index.html">採用情報</a></li>
 					<li><a href="../contact/index.html">お問合せ</a></li>
 			    </ul>
 			</div>
 			</div>
     </div>
-    <div class="col-lg-4 col-sm-12 top_margin20 bottom_margin20"> <a href="../branch/ageo.html"><img src="../images/footer_ph.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾"></a>
+    <div class="col-lg-4 col-sm-12 top_margin20 bottom_margin20"> <a href="../branch/syoubu.html"><img src="../images/footer_ph.jpg" class="img-responsive retina" alt="シルバーベターライフ菖蒲"></a>
 				<a href="../viewing/index.html"><div class="footer_link">内覧会を開催しています</div></a>
     </div>
   </div>
@@ -366,7 +386,7 @@
   </div>
 </footer>
 	
-<p id="page-top"><a href="#">PAGE TOP</a></p>
+	<p id="page-top"><a href="#"><span class="glyphicon glyphicon-chevron-up line"></span></a></p>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <!--<script src="js/jquery-1.11.3.min.js"></script>--> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 

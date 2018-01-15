@@ -74,7 +74,7 @@
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">施設一覧<span class="caret"></span></a>
 				<ul class="dropdown-menu">
             <li><a href="../branch/index.html">施設一覧ページ</a></li>
-            <li><a href="../branch/ageo.html">ソーシャルライフ上尾</a></li>
+            <li><a href="../branch/syoubu.html">シルバーベターライフ菖蒲</a></li>
 					</ul>
 				</li>
         <li><a href="../faq/index.html">よくある質問</a> </li>
@@ -200,16 +200,16 @@
 			  </div>
       </div>
 	    <div class="col-sm-3">
-				<h3 class="home_name">ソーシャルライフ上尾</h3>
+				<h3 class="home_name">シルバーベターライフ菖蒲</h3>
 				<div class="home_waku1">
-			<img src="../images/home2.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾">
+			<img src="../images/home2.jpg" class="img-responsive retina" alt="シルバーベターライフ菖蒲">
 				<p class="home_address">埼玉県上尾市２丁目１番１号</p>
 				<div class="row row-10">
 					<div class="col-xs-6"><p class="bn_home">住宅型老人ホーム</p></div>
 					<div class="col-xs-6"><p class="bn_day_service">デイサービス</p></div>
 					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て22室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐、駐車場5台分</p></div>
 					<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
-					<div class="col-xs-6 col-xs-offset-3 top_margin10"><a href="../branch/ageo.html" class="bt_link center-block">詳しいご案内</a></div>
+					<div class="col-xs-6 col-xs-offset-3 top_margin10"><a href="../branch/syoubu.html" class="bt_link center-block">詳しいご案内</a></div>
 					</div>
 			  </div>
       </div>
@@ -329,7 +329,7 @@
 			</div>
 			</div>
     </div>
-    <div class="col-lg-4 col-sm-12 top_margin20 bottom_margin20 wow fadeInLeft" data-wow-delay=".5s"> <a href="../branch/ageo.html"><img src="../images/footer_ph.jpg" class="img-responsive retina" alt="ソーシャルライフ上尾"></a>
+    <div class="col-lg-4 col-sm-12 top_margin20 bottom_margin20 wow fadeInLeft" data-wow-delay=".5s"> <a href="../branch/syoubu.html"><img src="../images/footer_ph.jpg" class="img-responsive retina" alt="シルバーベターライフ菖蒲"></a>
 				<a href="../viewing/index.html"><div class="footer_link">内覧会を開催しています</div></a>
     </div>
   </div>
