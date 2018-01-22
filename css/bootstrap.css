@@ -1082,7 +1082,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -2258,7 +2258,7 @@ caption {
   text-align: left;
 }
 th {
-  text-align: left;
+  text-align: center;
 }
 .table {
   width: 100%;
@@ -2452,7 +2452,7 @@ table th[class*="col-"] {
     border: 1px solid #ddd;
   }
   .table-responsive > .table {
-    margin-bottom: 0;
+  margin-bottom: 20px;
   }
   .table-responsive > .table > thead > tr > th,
   .table-responsive > .table > tbody > tr > th,
@@ -2485,7 +2485,8 @@ table th[class*="col-"] {
   .table-responsive > .table-bordered > tfoot > tr:last-child > th,
   .table-responsive > .table-bordered > tbody > tr:last-child > td,
   .table-responsive > .table-bordered > tfoot > tr:last-child > td {
-    border-bottom: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
   }
 }
 fieldset {
@@ -4289,7 +4290,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
   .navbar > .container-fluid .navbar-brand {
-    margin-left: -15px;
+  margin-left: -10px;
   }
 }
 .navbar-toggle {
@@ -6698,11 +6699,19 @@ button.close {
   .hidden-sm {
     display: none !important;
   }
+
+.container {
+  width: 100%;
+}
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .hidden-md {
     display: none !important;
   }
+
+.container {
+  width: 100%;
+}
 }
 @media (min-width: 1200px) {
   .hidden-lg {

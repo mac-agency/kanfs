@@ -7,7 +7,7 @@ $field_address 	= $_POST['address'];
 $field_email 	= $_POST['email'];
 $field_message = $_POST['message'];
 
-$mail_to = 'info@mac-agency.com';
+$mail_to = 'info@kan-fukushi-service.co.jp';
 $subject = $field_name.' 様からお問合わせを承りました。' ;
 $body_message = 'お名前：'	.$field_name."\n";
 $body_message .= 'E-mail：'	.$field_email."\n";
@@ -27,7 +27,7 @@ if ($mail_status) { ?>
 }
 else { ?>
     <script language="javascript" type="text/javascript">
-        alert('メッセージ送信に失敗しました。こちらのメールアドレスへお問い合わせください。info@mac-agency.com');
+        alert('メッセージ送信に失敗しました。こちらのメールアドレスへお問い合わせください。info@kan-fukushi-service.co.jp');
         window.location = 'index.html（※送信失敗後に移動するページ）';
     </script>
 <?php
