@@ -94,7 +94,8 @@
 @media (max-width:320px){
 
 .saiyou_loog {
-  width: 60%;
+  width: 58%;
+  margin-left: 5px;
 }
 
 .recruit_message {
@@ -151,6 +152,8 @@
 
 .saiyou_loog {
   width: 60%;
+  padding-left: 0px;
+  margin-left: 10px;
 }
 
 .recruit_message {
@@ -207,6 +210,7 @@
 
 .saiyou_loog {
   width: 60%;
+  margin-left: 10px;
 }
 
 .recruit_message {
