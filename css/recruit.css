@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+.navbar-toggle.recruit_toggle .icon-bar.recruit_bar {
+  background-color: hsla(0,0%,50%,1.00);
+  width: 33px;
+}
+
 .message_back {
   background-image: url(../recruit/images/saiyou_message_back_sm.jpg);
   background-repeat: no-repeat;
@@ -28,6 +33,7 @@
   padding-bottom: 20px;
   border-radius: 10px;
   font-size: 30px;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 .entry_link:hover {
   background-color: hsla(204,81%,57%,1.00);
@@ -37,6 +43,7 @@
   padding-bottom: 20px;
   border-radius: 10px;
   font-size: 30px;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
 .kaisya_name {
@@ -65,6 +72,7 @@
   border-radius: 5px;
   padding-bottom: 10px;
   font-size: 15px;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
 .copyright2 {
@@ -80,7 +88,9 @@
 }
 
 .saiyou_loog {
-  width: 80%;
+  width: 90%;
+  margin-top: 10px;
+  padding-right: 30px;
 }
 
 .ico_entry {
@@ -91,11 +101,57 @@
   margin-right: 5px;
 }
 
+.recruit_toggle {
+  margin-bottom: 0px;
+  background-color: hsla(0,0%,100%,0.00);
+}
+
+.navber_cyousei {
+  padding-bottom: 0px;
+  min-height: 40px;
+}
+
+.navbar-default .navbar-toggle:hover {
+  background-color: hsla(0,0%,0%,0.00);
+}
+
+.navbar-default .navbar-toggle:focus {
+  background-color: hsla(0,0%,0%,0.00);
+}
+
+.recruit_bar {
+  background-color: hsla(0,0%,50%,1.00);
+}
+
+.navbar-toggle {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+
+.menu_name {
+  color: hsla(0,0%,50%,1.00);
+  font-size: 10px;
+  text-align: center;
+  margin-top: -5px;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.recruit_top_margin {
+  margin-top: 40px;
+}
+
 @media (max-width:320px){
 
 .saiyou_loog {
-  width: 58%;
+  width: 57%;
   margin-left: 5px;
+  margin-top: 8px;
+}
+
+.navbar-default .navbar-toggle:focus {
+  background-color: hsla(0,0%,0%,0.00);
 }
 
 .recruit_message {
@@ -133,7 +189,7 @@
 .copyright2 {
   color: hsla(0,0%,100%,1.00);
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-  font-size: 14px;
+  font-size: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -143,7 +199,7 @@
   margin-bottom: 10px;
   color: hsla(0,0%,0%,1.00);
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-  font-size: 11px;
+  font-size: 13px;
   text-align: center;
 }
 }
@@ -154,6 +210,7 @@
   width: 60%;
   padding-left: 0px;
   margin-left: 10px;
+  margin-top: 5px;
 }
 
 .recruit_message {
@@ -209,8 +266,9 @@
 @media (min-width:376px) and (max-width:414px){
 
 .saiyou_loog {
-  width: 60%;
+  width: 55%;
   margin-left: 10px;
+  margin-top: 6px;
 }
 
 .recruit_message {
@@ -266,7 +324,8 @@
 @media (min-width:415px) and (max-width:736px){
 
 .saiyou_loog {
-  width: 40%;
+  width: 50%;
+  padding-left: 15px;
 }
 
 .recruit_message {
@@ -297,7 +356,8 @@
 @media (min-width:737px) and (max-width:768px){
 
 .saiyou_loog {
-  width: 40%;
+  width: 37%;
+  padding-left: 15px;
 }
 }
 
@@ -330,5 +390,15 @@
 
 .saiyou_loog {
   width: 33%;
+}
+}
+
+@media (max-width:991px){
+
+.navber_cyousei {
+  padding-bottom: 0px;
+  min-height: 40px;
+  border-bottom-width: 0px;
+  border-bottom-style: none;
 }
 }

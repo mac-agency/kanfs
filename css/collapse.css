@@ -23,8 +23,9 @@
         float: none;
     }
     .navbar-nav>li>a {
-        padding-top: 10px;
-        padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
     }
     .navbar-text {
         float: none;

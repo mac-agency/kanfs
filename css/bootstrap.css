@@ -1645,7 +1645,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn{height:auto;}
 @media (min-width:768px){.navbar-toggle{display:none;}
 }
 .navbar-nav{margin:7.5px -15px;}
-.navbar-nav > li > a{padding-top:10px;padding-bottom:10px;line-height:20px;font-size:12px;}
+.navbar-nav > li > a{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+  font-size: 13px;
+}
 @media (max-width:767px){.navbar-nav .open .dropdown-menu{position:static;float:none;width:auto;margin-top:0;background-color:transparent;border:0;-webkit-box-shadow:none;box-shadow:none;}
 .navbar-nav .open .dropdown-menu > li > a,
 .navbar-nav .open .dropdown-menu .dropdown-header{padding:5px 15px 5px 25px;}
@@ -2054,7 +2059,13 @@ button.list-group-item-danger.active:focus{color:#fff;background-color:#a94442;b
 .panel-body{padding:15px 15px 15px 25px;}
 .panel-heading{padding:10px 15px;border-bottom:1px solid transparent;border-top-left-radius:3px;border-top-right-radius:3px;}
 .panel-heading > .dropdown .dropdown-toggle{color:inherit;}
-.panel-title{margin-top:0;margin-bottom:0;font-size:16px;color:inherit;}
+.panel-title{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: inherit;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
 .panel-title > a,
 .panel-title > small,
 .panel-title > .small,
