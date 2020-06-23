@@ -78,7 +78,7 @@
 .bn_home{
   background-color: hsla(204,70%,70%,1.00);
   color: hsla(0,0%,100%,1.00);
-  font-size: 13px;
+  font-size: 12px;
   text-align: center;
   line-height: 1.4em;
   padding: 5px 0px;
@@ -361,7 +361,7 @@ p{color:hsla(0,0%,20%,1.00);}
   padding-left: 10px;
   font-size: 12px;
   padding-top: 0px;
-  line-height: 2.5em;
+  line-height: 2em;
 }
 .contact_wrap{margin-bottom:10px;margin-top:10px;}
 .bn_wrap{}
@@ -403,6 +403,105 @@ p{color:hsla(0,0%,20%,1.00);}
 
 .panel-title {
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.bn_mimamori {
+  background-color: hsla(33,97%,49%,1.00);
+  color: hsla(0,0%,100%,1.00);
+  font-size: 13px;
+  text-align: center;
+  line-height: 1.4em;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#kawaguchi_top {
+  background-image: url(../branch/kawaguchi/images/kawaguchi_top@2x.jpg);
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#kawaguchi_greeting {
+  background-position: 50% 50%;
+  background-image: url(../branch/kawaguchi/images/kawaguchi_greeting@2x.jpg);
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.mimamori-price {
+  border: 2px solid #979797;
+}
+
+.mimamori-left {
+  width: 25%;
+}
+
+.mimamori-fee {
+  font-weight: bold;
+}
+
+#nakamaru_top {
+  background-image: url(../branch/nakamaru/images/nakamaru_top@2x.jpg);
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#nakamaru_greeting {
+  background-position: 50% 50%;
+  background-image: url(../branch/nakamaru/images/nakamaru_greeting@2x.jpg);
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.mimamori_remarks {
+  font-size: 22px;
+  line-height: 1.5em;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.our_features {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  border-bottom: 1px solid #999999;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+.syoukei_background {
+  background-color: rgba(221,81,84,0.30);
+}
+
+.name-special {
+  font-size: 14px;
+}
+
+#mimamori_top {
+	background-image: url(../mimamori/images/mimamori_top.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.btn-mimamori {
+	background-color: #7DBDE8;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.spec_cyousei {
+	padding-bottom: 15px;
 }
 @media (max-width:320px){.movie_title{color:hsla(0,0%,91%,1.00);font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;font-size:28px;line-height:1.5em;text-shadow:1px 1px 1px hsla(0,0%,25%,1.00);padding-top:50px;}
 .home_hight{height:500px;margin-top:30px;}
@@ -740,6 +839,13 @@ p{color:hsla(0,0%,20%,1.00);}
 @media (min-width:376px) and (max-width:414px){.movie_title{color:hsla(0,0%,91%,1.00);font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;font-size:36px;line-height:1.5em;text-shadow:1px 1px 1px hsla(0,0%,25%,1.00);padding-top:50px;}
 .slide_title{font-size:22px;text-align:center;line-height:1.5em;margin-top:50px;text-shadow:1px 1px 1px hsla(0,0%,100%,1.00);}
 .home_hight{height:500px;margin-top:30px;}
+
+#kawaguchi_top_sm {
+  background-image: url(../branch/kawaguchi/images/kawaguchi_top_sm@2x.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 #ageo_top_sm{background-image:url(../branch/images/syoubu_top_sm@2x.jpg);-webkit-background-size:cover;background-size:cover;background-repeat:no-repeat;}
 .section_title{color:hsla(0,0%,15%,1.00);font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;font-size:17px;line-height:1.5em;text-align:center;margin-top:30px;margin-bottom:30px;}
 .main_title{
@@ -964,11 +1070,53 @@ p{color:hsla(0,0%,20%,1.00);}
   padding-left: 10px;
   font-size: 13px;
 }
+
+#kawaguchi_top_sm {
+  background-image: url(../branch/kawaguchi/images/kawaguchi_top_sm@2x.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#nakamaru_top_sm {
+  background-image: url(../branch/nakamaru/images/nakamaru_top_sm@2x.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mimamori_remarks {
+  font-size: 16px;
+  line-height: 1.5em;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+#mimamori_top_sm {
+	background-image: url(../mimamori/images/mimamori_top_sm.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.btn-mimamori {
+	background-color: #7DBDE8;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 11px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
 }
 @media (min-width:415px){.pc_non{display:none;}
 .text{font-size:18px;width:50%;padding-top:10px;padding-bottom:10px;}
 .contact-mail-submit.btn.btn-info.active.text-center{text-align:center;padding:30px 25%;font-size:24px;}
 .yakusyoku{padding-right:10px;}
+
+.br-415 {
+  display: block;
+}
 }
 @media (min-width:992px){.md_non{display:none;}
 }
@@ -982,4 +1130,16 @@ p{color:hsla(0,0%,20%,1.00);}
 .cyousei_width{
   width: 127px;
 }
+}
+
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mimamori_midashi1 {
+	color: #757575;
+	font-size: 21px;
+	text-align: center;
+	font-weight: bold;
 }
