@@ -451,6 +451,13 @@ p{color:hsla(0,0%,20%,1.00);}
   background-size: contain;
   background-repeat: no-repeat;
 }
+#shiraoka_top {
+	background-image: url(../branch/shirooka-nishi/images/ichibankan_top.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
 
 #nakamaru_greeting {
   background-position: 50% 50%;
@@ -458,6 +465,13 @@ p{color:hsla(0,0%,20%,1.00);}
   background-attachment: fixed;
   -webkit-background-size: cover;
   background-size: cover;
+}
+#shiraoka_greeting {
+	background-position: 50% 50%;
+	background-image: url(../branch/shirooka-nishi/images/ichibankan_greeting.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
 }
 
 .mimamori_remarks {
@@ -1079,6 +1093,24 @@ p{color:hsla(0,0%,20%,1.00);}
 }
 
 #nakamaru_top_sm {
+  background-image: url(../branch/nakamaru/images/nakamaru_top_sm@2x.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#shiraoka_top_sm {
+	background-image: url(../branch/shirooka-nishi/images/ichibankan_top_sm.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#shiraokanichi_top_sm {
+  background-image: url(../branch/nakamaru/images/nakamaru_top_sm@2x.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#shirookanishi_top_sm {
   background-image: url(../branch/nakamaru/images/nakamaru_top_sm@2x.jpg);
   -webkit-background-size: cover;
   background-size: cover;
