@@ -433,6 +433,13 @@ p{color:hsla(0,0%,20%,1.00);}
   background-size: contain;
   background-repeat: no-repeat;
 }
+#sashima_top {
+	background-image: url(../branch/sashima/images/sashima_top.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
 
 #kawaguchi_greeting {
   background-position: 50% 50%;
@@ -440,6 +447,13 @@ p{color:hsla(0,0%,20%,1.00);}
   background-attachment: fixed;
   -webkit-background-size: cover;
   background-size: cover;
+}
+#sashima_greeting {
+	background-position: 50% 50%;
+	background-image: url(../branch/sashima/images/sashima_greeting.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
 }
 
 .mimamori-price {
