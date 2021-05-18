@@ -76,6 +76,7 @@
 <!-- TemplateParam name="contact4" type="boolean" value="false" -->
 <!-- TemplateParam name="contact5" type="boolean" value="false" -->
 <!-- TemplateParam name="OptionalRegion11" type="boolean" value="true" -->
+<!-- TemplateParam name="contsct6" type="boolean" value="false" -->
 </head>
 	
 <body>
@@ -108,7 +109,8 @@
             <li><a href="../branch/syoubu.html">シルバーベターライフ菖蒲</a></li>
           <li><a href="../branch/nakamaru/index.html">シルバーコート中丸</a></li>
           <li><a href="../branch/kawaguchi/index.html">ベターライフコート川口</a></li>
-          <li><a href="../branch/shirooka-nishi/index.html">シルバーコート白岡西 壱番館・弐番館</a></li>
+          <li><a href="../branch/shirooka-nishi/index.html">シルバーコート白岡西 壱番館</a></li>
+          <li><a href="../branch/shirooka-nishi/nibankan.html">シルバーコート白岡西 弐番館</a></li>
           <li><a href="../branch/sashima/index.html">ベターライフ差間</a></li>
 					</ul>
 				</li>
@@ -267,20 +269,42 @@
 			  </div>
       </div>
     <div class="col-sm-3">
-				<h3 class="home_name"><span class="name-special">シルバーコート白岡西 壱番館・弐番館</span></h3>
+				<h3 class="home_name"><span class="name-special">シルバーコート白岡西 壱番館</span></h3>
 				<div class="home_waku1">
-			<img src="../images/home4.jpg" class="img-responsive retina" alt="シルバーコート白岡西 壱番館・弐番館">
+			<img src="../images/home4.jpg" class="img-responsive retina" alt="シルバーコート白岡西 壱番館">
 				<p class="home_address">埼玉県白岡市西9丁目3番3号</p>
 				<div class="row row-10">
 					<div class="col-xs-6 top_padding5"><p class="bn_home">住宅型有料老人<br>ホーム</p></div>
 					<div class="col-xs-6 top_padding5"><p class="bn_mimamori">見守りアパート</p></div>
           <!--<div class="col-xs-6 top_padding5"><p class="bn_day_service">デイサービス</p></div>-->
-					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て33室2棟（計66室）、食堂、コミュニティホール、バリアフリートイレ・バス、エレベーター完備、管理人常駐<br></p></div>
+					<div class="col-xs-12 top_margin10"><p class="home_spec">2階建て33室、食堂、コミュニティホール、バリアフリートイレ・バス、エレベーター完備、管理人常駐<br><br></p></div>
 					<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
 					<div class="col-xs-8 col-xs-offset-2 top_margin10"><a href="../branch/shirooka-nishi/index.html" class="bt_link center-block">詳しいご案内</a></div>
 					</div>
 			  </div>
       </div>
+    <div class="col-sm-3">
+    	<h3 class="home_name"><span class="name-special">シルバーコート白岡西 弐番館</span></h3>
+    	<div class="home_waku1"> <img src="../images/home6.jpg" class="img-responsive retina" alt="シルバーコート白岡西 弐番館">
+    		<p class="home_address">埼玉県白岡市西9丁目3番15号</p>
+    		<div class="row row-10">
+    			<div class="col-xs-6 top_padding5">
+    				<p class="bn_home">住宅型有料老人<br>
+    					ホーム</p>
+    				</div>
+    			<div class="col-xs-6 top_padding5">
+    				<p class="bn_mimamori">見守りアパート</p>
+    				</div>
+    			<!--<div class="col-xs-6 top_padding5"><p class="bn_day_service">デイサービス</p></div>-->
+    			<div class="col-xs-12 top_margin10">
+    				<p class="home_spec">2階建て33室、食堂、コミュニティホール、バリアフリートイレ・バス、エレベーター完備、管理人常駐<br><br>
+    					</p>
+    				</div>
+    			<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
+    			<div class="col-xs-8 col-xs-offset-2 top_margin10"><a href="../branch/shirooka-nishi/nibankan.html" class="bt_link center-block">詳しいご案内</a></div>
+    			</div>
+    		</div>
+    	</div>
     <div class="col-sm-3">
     	<h3 class="home_name">ベターライフ差間</h3>
     	<div class="home_waku1"> <img src="../images/home5.jpg" class="img-responsive retina" alt="ベターライフ差間">
@@ -294,7 +318,7 @@
     				<p class="bn_day_service">デイサービス</p>
     				</div>
     			<div class="col-xs-12 top_margin10">
-    				<p class="home_spec">2階建て33室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐<br>
+    				<p class="home_spec">2階建て33室、食堂、バリアフリートイレ・バス、エレベーター完備、介護士常駐<br><br>
     					</p>
     				</div>
     			<!--<div class="col-xs-12 top_margin10"><i class="fa fa-bath" aria-hidden="true"></i><i class="fa fa-car" aria-hidden="true"></i><i class="fa fa-heartbeat" aria-hidden="true"></i><i class="fa fa-wheelchair" aria-hidden="true"></i></div>-->
@@ -375,14 +399,30 @@
   	<div class="container sm_non">
   		<div class="row top_margin20">
   			<div class="col-sm-10 col-sm-offset-1">
-  				<h2><a href="../branch/shirooka-nishi/index.html"><img src="../images/bn_shiraoka.jpg" class="img-responsive retina" alt="シルバーコート白岡西壱番館・弐番館内覧見学会のご案内｜関東福祉サービス株式会社"></a></h2>
+  				<h2><a href="../branch/shirooka-nishi/index.html"><img src="../images/bn_shiraoka.jpg" class="img-responsive retina" alt="シルバーコート白岡西壱番館内覧見学会のご案内｜関東福祉サービス株式会社"></a></h2>
  				</div>
  			</div>
  		</div>
   	<div class="container pc_non">
   		<div class="row bn_wrap">
   			<div class="col-sm-10 col-sm-offset-1">
-  				<h2><a href="../branch/shirooka-nishi/index.html"><img src="../images/bn_shiraoka_sm.jpg" class="img-responsive retina center-block" alt="シルバーコート白岡西壱番館・弐番館内覧見学会のご案内｜関東福祉サービス株式会社"></a></h2>
+  				<h2><a href="../branch/shirooka-nishi/index.html"><img src="../images/bn_shiraoka_sm.jpg" class="img-responsive retina center-block" alt="シルバーコート白岡西壱番館内覧見学会のご案内｜関東福祉サービス株式会社"></a></h2>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</section>
+  <section id="nairan6" class="bg-white">
+  	<div class="container sm_non">
+  		<div class="row top_margin20">
+  			<div class="col-sm-10 col-sm-offset-1">
+  				<h2><a href="../branch/shirooka-nishi/nibankan.html"><img src="../images/bn_shiraoka_nibankan.jpg" class="img-responsive retina" alt="シルバーコート白岡西弐番館内覧見学会のご案内｜関東福祉サービス株式会社"></a></h2>
+ 				</div>
+ 			</div>
+ 		</div>
+  	<div class="container pc_non">
+  		<div class="row bn_wrap">
+  			<div class="col-sm-10 col-sm-offset-1">
+  				<h2><a href="../branch/shirooka-nishi/nibankan.html"><img src="../images/bn_shiraoka_nibankan_sm.jpg" class="img-responsive retina center-block" alt="シルバーコート白岡西弐番館内覧見学会のご案内｜関東福祉サービス株式会社"></a></h2>
  				</div>
  			</div>
  		</div>
@@ -476,6 +516,20 @@
   </section>
   <!-- TemplateEndIf -->
   
+  <!-- TemplateBeginIf cond="contsct6" -->
+  <section id="contact-nibankan" class="bg-white">
+	  <div class="container-fluid">
+		  <div class="container">
+			  <div class="row">
+					<div class="col-sm-6 contact_wrap">
+					  <h2><a href="tel:0480535233"><img src="../branch/shirooka-nishi/images/bn_tel_nibankan.svg" class="img-responsive" alt="電話でのお問合せ"></a></h2></div>
+					<div class="col-sm-6 contact_wrap"><h2><a href="../contact/index.html"><img src="../images/bn_mail.svg" class="img-responsive" alt="お問合せ｜関東福祉サービス株式会社"></a></h2></div>
+		    </div>
+      </div>
+    </div>
+  </section>
+  <!-- TemplateEndIf -->
+  
 
   
   <!-- TemplateBeginIf cond="OptionalRegion11" -->
@@ -518,7 +572,8 @@
 					<li><a href="../branch/syoubu.html"><span class="footer_list2">シルバーベターライフ菖蒲</span></a></li>
 					<li><a href="../branch/nakamaru/index.html"><span class="footer_list3">シルバーコート中丸</span></a></li>
           <li><a href="../branch/kawaguchi/index.html"><span class="footer_list3">ベターライフコート川口</span></a></li>
-          <li><a href="../branch/shirooka-nishi/index.html"><span class="footer_list4">シルバーコート白岡西<br>　　　　壱番館・弐番館</span></a></li>
+          <li><a href="../branch/shirooka-nishi/index.html"><span class="footer_list4">シルバーコート白岡西<br>　　　　　　　　　壱番館</span></a></li>
+          <li><a href="../branch/shirooka-nishi/nibankan.html"><span class="footer_list4">シルバーコート白岡西<br>　　　　　　　　　弐番館</span></a></li>
           <li><a href="../branch/sashima/index.html"><span class="footer_list4">ベターライフ差間</span></a></li>
 			    </ul>
 			</div>
